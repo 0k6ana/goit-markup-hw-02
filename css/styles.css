@@ -1,6 +1,7 @@
 body {
-  font-family: "Monserat";
-  background-color: #f4f4fd;
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
   color: #2e2f42;
 }
 h1,
@@ -19,4 +20,111 @@ ul {
 }
 a {
   text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+/*header*/
+.navigation-menu {
+  font-weight: 500;
+  color: #2e2f42;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.social {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.5;
+}
+.hero-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}
+/*information*/
+
+.title-information {
+  visibility: hidden;
+}
+.subtitle-information {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.information-text {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/*OUR TEAM*/
+
+.title-team {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.2;
+}
+
+.team-name {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.team-profesion {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/*our portfolio*/
+
+.title-portfolio {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.2;
+}
+.portfolio-name {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.portfolio-name-text {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/*footer*/
+.footer {
+  background-color: #2e2f42;
+}
+.logo-span {
+  color: #4d5ae5;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.5;
+}
+.footer-logo {
+  color: #f4f4fd;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.5;
+}
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
 }
