@@ -122,17 +122,24 @@ button {
   color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.2;
+  line-height: 1.11;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.team.item {
 }
 
 .team-name {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.11;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  background-color: #ffffff;
 }
 .team-profesion {
   color: #434455;
