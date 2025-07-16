@@ -67,7 +67,7 @@ button {
   color: #2e2f42;
 }
 
-/*hero*/
+/*section1*/
 .hero {
   background-color: #2e2f42;
 }
@@ -94,7 +94,7 @@ button {
 .hero-button:focus {
   color: #404bbf;
 }
-/*information*/
+/*section2*/
 
 .title-information {
   visibility: hidden;
@@ -113,7 +113,7 @@ button {
   letter-spacing: 0.02em;
 }
 
-/*OUR TEAM*/
+/*section3*/
 .our-team {
   background-color: #f4f4fd;
 }
@@ -137,12 +137,14 @@ button {
 .team-profesion {
   color: #434455;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.11;
   background-color: #ffffff;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
 }
 
-/*our portfolio*/
+/* section4 our portfolio*/
 
 .title-portfolio {
   color: #2e2f42;
@@ -178,7 +180,7 @@ button {
 }
 
 .footer-logo {
-  color: #f4f4fd;
+  color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -187,7 +189,7 @@ button {
   text-transform: uppercase;
 }
 .footer-logo-span {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 .footer-text {
   font-size: 16px;
