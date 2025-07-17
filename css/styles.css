@@ -89,10 +89,10 @@ button {
   letter-spacing: 0.04em;
 }
 .hero-button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .hero-button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 /*section2 information*/
 
@@ -129,6 +129,7 @@ button {
   text-transform: capitalize;
 }
 .team-item {
+  background-color: #ffffff;
 }
 
 .team-name {
@@ -144,7 +145,7 @@ button {
 .team-profesion {
   color: #434455;
   font-size: 16px;
-  line-height: 1.11;
+  line-height: 1.5;
   background-color: #ffffff;
   letter-spacing: 0.02em;
   text-align: center;
@@ -186,7 +187,7 @@ button {
   background-color: #2e2f42;
 }
 
-.footer-logo {
+.header-logo {
   color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
