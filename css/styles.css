@@ -90,7 +90,7 @@ button {
 }
 .hero-button:hover,
 .hero-button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 /*section2 information*/
 
@@ -121,12 +121,11 @@ button {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.team-item {
+.team-list {
   background-color: #ffffff;
 }
 
