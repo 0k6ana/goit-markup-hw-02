@@ -35,17 +35,17 @@ button {
 .navigation-menu:hover {
   color: #404bbf;
 }
-.navigation-menu:active {
+.navigation-menu:focus {
   color: #404bbf;
 }
 .adress-menu {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.adress-menu:hover {
+.social:hover {
   color: #404bbf;
 }
-.adress-menu:focus {
+.social:focus {
   color: #404bbf;
 }
 .social {
@@ -67,7 +67,7 @@ button {
   color: #2e2f42;
 }
 
-/*section1*/
+/*section1 hero*/
 .hero {
   background-color: #2e2f42;
 }
@@ -94,7 +94,7 @@ button {
 .hero-button:focus {
   color: #404bbf;
 }
-/*section2*/
+/*section2 information*/
 
 .title-information {
   visibility: hidden;
@@ -113,7 +113,7 @@ button {
   letter-spacing: 0.02em;
 }
 
-/*section3*/
+/*section3 our team*/
 .our-team {
   background-color: #f4f4fd;
 }
@@ -128,7 +128,7 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.team.item {
+.team-item {
 }
 
 .team-name {
